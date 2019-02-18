@@ -19,7 +19,16 @@ public class PTra01_07 {
 		float f;
 		double d;
 
-		// ★ それぞれの型変数に、値を代入してください
+		// ★ それぞれの型変数に、値を代入してください 
+			bo = true;
+			by = 10;
+			s = 20;
+			c ='し';
+			i = 126;
+			l =  348919783;
+			f = 3.14F;
+			d = 22.3;
+			
 		// ※ 値は、好きな数字を入力してください
 
 
@@ -31,8 +40,15 @@ public class PTra01_07 {
 
 
 		// ★ それぞれの変数の中身を出力してください
-
-
+			System.out.println(by);
+			System.out.println(bo);
+			System.out.println(s);
+			System.out.println(c);
+			System.out.println(l);
+			System.out.println(i);
+			System.out.println(f);
+			System.out.println(d);
+			
 
 
 
